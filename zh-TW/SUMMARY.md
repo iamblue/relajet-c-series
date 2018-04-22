@@ -1,0 +1,26 @@
+# Summary
+
+* [介紹](README.md)
+  * [規格](spec.md)
+  * [硬體界面須知](hwnotice.md)
+  * [開箱設定](open.md)
+  * [如何設定網路](settingwifi.md)
+* [基礎](basic.md)
+  * [Run 一隻 hello world 程式](helloworld.md)
+  * [打開 microSD card 檔案](microSD.md)
+  * [如何使用 ffmpeg 來做 video streaming](ffmpeg.md)
+  * [如何一開機時啟動你的 app](startapp.md)
+* [硬體介面](hw.md)
+  * [如何連接喇叭](speaker.md)
+  * [紅外線觸發](PIR.md)
+  * [按鈕觸發](GPIO.md)
+* [應用](application.md)
+  * [智慧門鈴](doorbell.md)
+  * [人臉識別](facerecognition.md)
+  * [車牌識別](carplate.md)
+* [環境安裝](huan-jing-an-zhuang.md)
+  * [Windows](huan-jing-an-zhuang/qu-dong-cheng-shi-an-zhuang.md)
+  * [MacOS/Linux](huan-jing-an-zhuang/macoslinux.md)
+* [韌體更新](firmware-uplate.md)
+
+
