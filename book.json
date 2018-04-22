@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        "youtube",
+        "splitter",
+        "toggle-chapters",
+        "anchors"
+    ],
+    "pluginsConfig": {},
+    "language": "zh-TW"
+}
